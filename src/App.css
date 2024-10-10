@@ -1,0 +1,44 @@
+.Clouds{
+    background-image: url('./components/weatherstatusbg/clouds.gif');
+    background-size: cover;
+}
+
+.Clear{
+    background-image: url('./components/weatherstatusbg/clear.gif');
+    background-size: cover;
+}
+
+.Haze{
+    background-image: url('./components/weatherstatusbg/Haze.gif');
+    background-size: cover;
+}
+
+.Fog{
+    background-image: url('./components/weatherstatusbg/Haze.gif');
+    background-size: cover;
+}
+
+.Mist{
+    background-image: url('./components/weatherstatusbg/Haze.gif');
+    background-size: cover;
+}
+
+.Snow{
+    background-image: url('./components/weatherstatusbg/snow.gif');
+    background-size: cover;
+}
+
+.Rain{
+    background-image: url('./components/weatherstatusbg/rain.gif');
+    background-size: cover;
+}
+
+.Drizzle{
+    background-image: url('./components/weatherstatusbg/drizzle.gif');
+    background-size: cover;
+}
+
+.Smoke{
+    background-image: url('./components/weatherstatusbg/Smoke.gif');
+    background-size: cover;
+}
